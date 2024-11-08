@@ -6,6 +6,11 @@ A simple and responsive website built with HTML and CSS to practice fundamental 
 
 The **Lumina Creative** website is a static, single-page site designed as a creative portfolio or agency website. It was built as a practice project to sharpen HTML and CSS skills, focusing on layout structure, styling, and basic responsive design principles.
 
+## 🌐 Live Demo
+
+You can view the live site here: [Lumina Creative on Netlify](https://lumina-creative-project-learning.netlify.app)
+
+
 ## 📱 Responsive Design
 
 This website is responsive on:
